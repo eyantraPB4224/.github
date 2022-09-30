@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Eyantra Pharma Bot Banner](img.png)
+![Eyantra Pharma Bot Banner](.github/profile/img.png)
 
 Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this since **Sept 15 2022**. That's when we made our first commit. Since then we pushed **many**, opened **Many Issues**, submitted roughly **10 solutions**. But that's just us. We are proud  to be part of Eyantra and Robots :robot: across the world 🗺️.
 ### 🍿 A Good Team of Inovative Friends 
