@@ -32,6 +32,6 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
 Made with :heart:
 🙇‍♂️🎤⬇️
 <div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaBattin" alt="Aditya Battin" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaBattin&label=Profile%20views&color=0e75b6&style=flat" alt="TeamEyantraPB4224" /> </p>
 </div>
 
