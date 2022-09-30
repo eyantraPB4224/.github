@@ -31,7 +31,7 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
 
 Made with :heart:
 🙇‍♂️🎤⬇️
-<div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaBattin&label=Profile%20views&color=0e75b6&style=flat" alt="TeamEyantraPB4224" /> </p>
+<div align = "center">
+<img src="https://raw.githubusercontent.com/yashkondewar/yashkondewar/master/Github My img.gif" width=300>
 </div>
 
