@@ -23,7 +23,7 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
  - From CSE 
  - Speciality : Intermedate in Coding Skills (Python + Lua)
  
-#### Diksha Athavle
+#### Diksha Athawale
  - aka the Lerner 
  - Loves K-pop and Korean Drama  
  - From EXTC 
