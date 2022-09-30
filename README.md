@@ -1,2 +1,2 @@
 # For Eyantra With Love
-Readme.md is in proflie folder
+Readme.md is in profile folder
