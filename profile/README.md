@@ -13,7 +13,7 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
 
 #### Rajvardhan Shriram 
  - aka the Hardware Guy
- - The cill gym person, but serius in terms of work 
+ - The chill gym person, but serius in terms of work 
  - From EXTC 
  - Speciality : Good at Team Leading, Team Managment and Hardware (Copellasim)
  
