@@ -6,10 +6,10 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
 ### 🍿 A Good Team of Inovative Friends 
 
 #### Vivek Deshmukh 
- - aka the OpenCV & Hardware Guy
- - Does DSA all the time 
+ - aka the Learner
+ - talk about politics all the time 
  - From EXTC 
- - Speciality : Good at all but Master in None (OpenCV + Copellasim)
+ - Speciality : Good in extra-curricular activities
 
 #### Rajvardhan Shriram 
  - aka the Hardware Guy
