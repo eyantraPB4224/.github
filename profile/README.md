@@ -7,7 +7,7 @@ Yes, we are building Eyantra_PB_4224 on GitHub. In fact, we’ve been doing this
 
 #### Vivek Deshmukh 
  - aka the Learner
- - talk about politics all the time 
+ - Talk about politics all the time 
  - From EXTC 
  - Speciality : Good in extra-curricular activities
 
